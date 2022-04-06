@@ -1,2 +1,2 @@
 # 3D-CUBE-SLIDER
-This project focuses on the concepts like transitions,animations,perspectives etc. Feel free to change the images and modify the code according.
+Change both the sides of the 3D Cube by clicking on the dots at the right side of the page.This is similar to Image Slider Project using Javascript. Feel free to modify the code as you wish.
